@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @g3ek5cwb5
 - 👀 I’m interested in app and web development
-- 🌱 I’m currently learning cmputer science
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on every projects that are in these domains
 - 📫 contact me on g3ek5cwb5@yahoo.com
 
